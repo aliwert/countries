@@ -5,3 +5,9 @@ This project aims to provide users with an interactive way to explore informatio
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Technologies Used
+HTML<br>
+CSS<br>
+JavaScript<br>
+REST Countries API<br>
